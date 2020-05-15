@@ -1,0 +1,48 @@
+body {
+    margin:0;
+    text-align: center;
+    background-color: #5f9ddd;
+    font-family: 'Roboto', sans-serif;
+    color: #035AA6;
+}
+
+h1 {
+    color: #035AA6;
+    width: 30%;
+    margin:0 auto 0 auto;
+    font-family: 'Shadows Into Light', cursive;
+    padding-bottom: 15px;
+}
+p{
+
+}
+.top {
+    position: relative;
+    padding-top: 200px;
+} 
+.Middle {
+
+}
+
+.bottom {
+
+}
+#cloud1 {
+    position: absolute;
+    top:80px;
+    right:200px;
+}
+#cloud2 {
+    position: absolute;
+    top:250px;
+    left:80px;
+}
+
+
+
+/****Pallatte is ********************************
+#120136
+#035AA6
+#5f9ddd
+#FCBF1E
+****/
