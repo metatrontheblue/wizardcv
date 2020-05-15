@@ -29,13 +29,13 @@ p{
 }
 #cloud1 {
     position: absolute;
-    top:80px;
-    right:200px;
+    top:10%;
+    right:10%;
 }
 #cloud2 {
     position: absolute;
-    top:250px;
-    left:80px;
+    top:35%;
+    left:10%;
 }
 
 
